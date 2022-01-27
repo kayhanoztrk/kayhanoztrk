@@ -2,5 +2,5 @@
 
 
 - ⚡ I'm Kayhan from Turkey.
-- 🔭 I’m currently working on backend development.
-- 🌱 I’m currently learning react.I'm always trying new challenges.
+- 🔭 I’m currently working on backend development. I'm using java and javascript techs.
+- 🌱 I’m currently learning React. I'm always trying new challenges.
